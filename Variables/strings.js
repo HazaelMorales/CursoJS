@@ -1,4 +1,5 @@
-var nombre = "Mario"
+//var nombre = "Mario"
+var nombre = "Morales"
 var edad = 20
 
 console.log(`Mi nombre es: ${nombre} y tengo ${edad} años`) //interpolacion de textos
